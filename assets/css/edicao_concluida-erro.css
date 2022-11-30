@@ -1,0 +1,55 @@
+.img_accompanyCar {
+    display: flex;
+    width: 220px;
+    margin: 60px 0 60px 135px;
+}
+.img_accompanyCar-erro {
+    display: flex;
+    width: 220px;
+    margin: 60px 0 60px 211px;
+}
+.cadastro-concluido {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.icone-concluido {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+    background-image: url(../img/checkmark.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icone_concluido-erro {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+    background-image: url(../img/denied.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.descricao__icone-concluido {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn-return__login {
+    transition: 0.5s;
+    width: 500px;
+    text-align: center;
+
+}
+
+.btn-return__login-erro {
+    transition: 0.5s;
+    text-align: center;
+
+}

@@ -1,0 +1,89 @@
+.btn-return__emAndamento {
+    margin: 50px 0 0 50px;
+    height: 50px;
+    width: 50px;
+    
+}
+.border-menu__emAndamento {
+    background-color: var(--color-border-emAndamento);
+    height: 10px;
+    border-radius: 5px;
+}
+.header-menu__emAndamento {
+    height: 70px;
+    background-color: var(--label-verde-escuro);
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    color: var(--color-font);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.descricao_itens {
+    background-color: var(--label-verde-escuro);
+    margin: 10px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    color: var(--color-font);
+}
+
+.img-descricao_itens {
+    height: 40px;
+}
+
+.header-descricao_itens {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-bottom: 1px solid black;
+    height: 47px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.field-descricao_veiculo {
+    display: flex;
+    flex-flow: column wrap;
+    gap: 7px;
+    height: 70px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.field-detalhamento_problema {
+    text-align: justify;
+    min-height: 70px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.field-observacoes_gerais {
+    min-height: 70px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    margin: 3px 0 3px;
+}
+
+.observacoes-gerais__itens {
+    margin-bottom: 15px;
+}
+
+.observacoes-gerais__autorizacao {
+    font-weight: bold;
+}
+.btn-mais-detalhes {
+    text-align: center;
+}
+
+.btn-mais-detalhes a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    margin-right: 20px;
+}

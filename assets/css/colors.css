@@ -1,0 +1,22 @@
+:root {
+    --background:#E5E5E5;
+    --bg-cinza: #E5E5E5;
+    --btn-verde-claro: #31A590;
+    --label-verde-escuro: #2C554E;
+    --color-font: #dcdcdc;
+    --color-border-emAndamento: #B98602;
+    --color-border-contatos: #31A590;
+    --color-border-historico: #349C03;
+    --color-border-autorizacao: #909C03;
+
+
+    
+    --cor-primaria: #0071ea;
+    --cor-secundaria: #d6eaff;
+    --cor-contraste-escuro: #4D4D4D;
+    --cor-contraste-claro: #fff;
+    --cor-aviso: #df2525;
+    --cor-sucesso: #047900;
+    --cor-transparencia: #4d4d4d33;
+
+}

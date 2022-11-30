@@ -1,0 +1,82 @@
+.btn-return__autorizacao {
+    margin: 50px 0 0 50px;
+    height: 50px;
+    width: 50px;
+    
+}
+.border-menu__autorizacao {
+    background-color: var(--color-border-autorizacao);
+    height: 10px;
+    border-radius: 5px;
+}
+.header-menu__autorizacao {
+    height: 70px;
+    background-color: var(--label-verde-escuro);
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-font);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.descricao_itens-autorizacao {
+    background-color: var(--label-verde-escuro);
+    margin: 10px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    color: var(--color-font);
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    font-size: 17px;
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.descricao_itens {
+    background-color: var(--label-verde-escuro);
+    margin: 10px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    color: var(--color-font);
+}
+
+.header-descricao_itens {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-bottom: 1px solid black;
+    height: 47px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.field-descricao_itens {
+    min-height: 30px;
+    margin: 10px 10px 10px 30px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+}
+
+.field-autorizacao-itens {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 30px 10px 30px 40px;
+    gap: 10px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.btn-autorizo a {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}

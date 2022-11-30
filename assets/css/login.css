@@ -1,0 +1,48 @@
+.form-check-forgot {
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    padding: 15px 0 0 0;
+    color: #000000;
+}
+
+.link-forgot-password {
+    text-decoration: none;
+    color: #000000;
+}
+
+.link-forgot-password:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.form-registration {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    background-color:var(--label-verde-escuro);
+    border-radius: 10px;
+    color: var(--color-font);
+    font-size: 16px;
+    height: 80px;
+    vertical-align: middle;
+    transition: 0.5s;
+    font-size: 15px;
+}
+
+.form-registration a {
+    text-decoration: none;
+}
+
+.field-registration {
+    padding-top: 20px;
+    color: var(--label-verde-escuro);
+    transition: 0.5s;
+}
+
+.field-registration:hover {
+    color:var(--color-font);
+    font-weight: bolder;
+    transform: scale(1.2);
+    cursor: pointer;
+}

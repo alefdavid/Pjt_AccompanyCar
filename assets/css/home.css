@@ -1,0 +1,47 @@
+.main-form__initial {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-form__initial-adm {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+}
+
+.header-initial {
+    display: flex;
+    align-items: center;
+    width: 575px;
+}
+
+.descricao-cabecalho-adm {
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-acompanhar button, .btn-finalizados button, .main-form__initial-link {
+    font-size: 18px;
+    cursor: pointer;
+    margin: 50px auto 30px;
+    width: 400px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-decoration: none;
+}
+
+.btn-cliente button, .btn-veiculo button, .main-form__initial-link-admin {
+    font-size: 18px;
+    cursor: pointer;
+    margin: 50px 10px 30px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+}

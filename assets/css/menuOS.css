@@ -1,0 +1,19 @@
+.main-form__accompany {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-return {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.field-description__menuOS {
+    text-align: left;
+}
+
+.ou {
+    margin: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
